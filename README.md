@@ -6,4 +6,4 @@ Physic Simulation
 
 리지드 바디와 충돌체크 , 바운딩 볼륨 하이어라키를 제작했습니다.
 https://www.youtube.com/watch?v=VjKypddHc8A
-[[Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=VjKypddHc8A)
+https://www.youtube.com/watch?v=j0h3aORxUtk
