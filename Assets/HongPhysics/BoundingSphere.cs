@@ -51,7 +51,7 @@ namespace HongPhysics
         {
             BoundingSphere other = (BoundingSphere)boundVolume;
             float distance = (center - other.center).sqrMagnitude;
-            return distance < (radius * other.radius) * (radius * other.radius);
+            return distance < (radius + other.radius) * (radius + other.radius);
         }
 
         public float GetGrowth(IBoundVolume other)
